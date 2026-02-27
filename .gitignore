@@ -1,0 +1,28 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Competitive Programming Helper files
+.cph/
+
+# Input/Output files
+input.txt
+output.txt
+tempCodeRunnerFile.c
+tempCodeRunnerFile.cpp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Problem files
+*.prob
